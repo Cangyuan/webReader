@@ -1,5 +1,5 @@
 {
-  "name": "webappReader1",
+  "name": "webReader",
   "version": "1.0.0",
   "description": "web reader site",
   "main": "app.js",
@@ -17,9 +17,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "bei",
+  "author": "cangyuan",
   "license": "MIT",
   "jshintConfig": {
-	  "esnext": true
-	}
+    "esnext": true
+  }
 }
